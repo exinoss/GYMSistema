@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace GYMSistema.Modelo
 {
-    internal class dtoClases
+    internal class dtoSocios
     {
-        public int IdClase { get; set; }
         public int IdSocio { get; set; }
         public string Nombre { get; set; }
-        public string DiaSemana { get; set; }
-        public TimeSpan Hora { get; set; }
-        public int CupoMaximo { get; set; }
+        public string Apellido { get; set; }
+        public DateTime FechaNacimiento { get; set; }
+        public string Direccion { get; set; }
+        public string Telefono { get; set; }
     }
 }

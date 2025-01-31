@@ -69,11 +69,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controlador\clsClases.cs" />
-    <Compile Include="Controlador\clsClientes.cs" />
+    <Compile Include="Controlador\clsSocios.cs" />
     <Compile Include="Controlador\clsMembresia.cs" />
     <Compile Include="Controlador\clsPagos.cs" />
     <Compile Include="Modelo\dtoClases.cs" />
-    <Compile Include="Modelo\dtoClientes.cs" />
+    <Compile Include="Modelo\dtoSocios.cs" />
     <Compile Include="Modelo\dtoMembresia.cs" />
     <Compile Include="Modelo\dtoPagos.cs" />
     <Compile Include="Program.cs" />

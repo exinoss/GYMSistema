@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwreportes\\informe.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwreportes\\informe.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\modelo\\dtoclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\modelo\\dtoclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwreportes\\cureporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwreportes\\cureporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\modelo\\dtosocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\modelo\\dtosocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwpagos\\cupagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwpagos\\cupagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\modelo\\dtopagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\modelo\\dtopagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwsocios\\cusocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwsocios\\cusocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwclases\\cuclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwclases\\cuclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwmembresia\\cumembresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwmembresia\\cumembresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwreportes\\cureporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwreportes\\cureporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\modelo\\dtomembresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\modelo\\dtomembresia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,112 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Informe.rdlc [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwReportes\\Informe.rdlc",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwReportes\\Informe.rdlc",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwReportes\\Informe.rdlc [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwReportes\\Informe.rdlc [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
-              "WhenOpened": "2025-01-31T15:19:59.536Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CUSocios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwSocios\\CUSocios.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwSocios\\CUSocios.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwSocios\\CUSocios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwSocios\\CUSocios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:03:15.305Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CUClases.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwClases\\CUClases.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwClases\\CUClases.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwClases\\CUClases.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwClases\\CUClases.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:03:08.595Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CUReporte.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwReportes\\CUReporte.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwReportes\\CUReporte.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwReportes\\CUReporte.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwReportes\\CUReporte.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T14:57:51.942Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CUPagos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwPagos\\CUPagos.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwPagos\\CUPagos.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwPagos\\CUPagos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwPagos\\CUPagos.cs [Dise\u00F1o]",
+              "Title": "dtoPagos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoPagos.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Modelo\\dtoPagos.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoPagos.cs",
+              "RelativeToolTip": "GYMSistema\\Modelo\\dtoPagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:02:54.688Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CUMembresia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwMembresia\\CUMembresia.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwMembresia\\CUMembresia.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwMembresia\\CUMembresia.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwMembresia\\CUMembresia.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:03:01.181Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Vista\\frmPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:03:56.408Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\frmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs",
-              "RelativeToolTip": "GYMSistema\\Vista\\frmPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T15:03:57.609Z",
+              "WhenOpened": "2025-01-31T15:25:05.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CUReporte.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwReportes\\CUReporte.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwReportes\\CUReporte.cs",
-              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwReportes\\CUReporte.cs",
-              "RelativeToolTip": "GYMSistema\\Vista\\vwReportes\\CUReporte.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "dtoMembresia.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoMembresia.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Modelo\\dtoMembresia.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoMembresia.cs",
+              "RelativeToolTip": "GYMSistema\\Modelo\\dtoMembresia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T14:58:31.867Z",
+              "WhenOpened": "2025-01-31T15:24:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dtoSocios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoSocios.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Modelo\\dtoSocios.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoSocios.cs",
+              "RelativeToolTip": "GYMSistema\\Modelo\\dtoSocios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:24:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dtoClases.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoClases.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Modelo\\dtoClases.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Modelo\\dtoClases.cs",
+              "RelativeToolTip": "GYMSistema\\Modelo\\dtoClases.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:20:18.958Z",
               "EditorCaption": ""
             }
           ]
