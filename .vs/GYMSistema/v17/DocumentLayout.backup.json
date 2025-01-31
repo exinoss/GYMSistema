@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\GYMSistema\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\gymsistema\\gymsistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwclases\\cuclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwclases\\cuclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\vista\\vwclases\\cuclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\vista\\vwclases\\cuclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|c:\\users\\usuario_15\\documents\\github\\gymsistema\\gymsistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3121D771-BAED-4331-B6F8-4A28AFD452B5}|GYMSistema\\GYMSistema.csproj|solutionrelative:gymsistema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Vista\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs",
+              "RelativeToolTip": "GYMSistema\\Vista\\frmPrincipal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:56:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CUClases.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwClases\\CUClases.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwClases\\CUClases.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwClases\\CUClases.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GYMSistema\\Vista\\vwClases\\CUClases.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:54:10.421Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\GYMSistema\\GYMSistema\\Form1.cs",
-              "RelativeDocumentMoniker": "GYMSistema\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\GYMSistema\\GYMSistema\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GYMSistema\\Form1.cs [Dise\u00F1o]",
+              "Title": "CUClases.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwClases\\CUClases.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Vista\\vwClases\\CUClases.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\vwClases\\CUClases.cs",
+              "RelativeToolTip": "GYMSistema\\Vista\\vwClases\\CUClases.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:25:04.398Z",
+              "WhenOpened": "2025-01-31T14:54:04.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Vista\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Vista\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GYMSistema\\Vista\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:52:25.864Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Program.cs",
+              "RelativeDocumentMoniker": "GYMSistema\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario_15\\Documents\\GitHub\\GYMSistema\\GYMSistema\\Program.cs",
+              "RelativeToolTip": "GYMSistema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:51:09.971Z",
+              "EditorCaption": ""
             }
           ]
         }

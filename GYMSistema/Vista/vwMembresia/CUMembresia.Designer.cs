@@ -1,6 +1,6 @@
-﻿namespace GYMSistema.Vista.vwCliente
+﻿namespace GYMSistema.Vista.vwMembresia
 {
-    partial class CUCliente
+    partial class CUMembresia
     {
         /// <summary> 
         /// Variable del diseñador necesaria.

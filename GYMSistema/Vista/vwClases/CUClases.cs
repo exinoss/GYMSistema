@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GYMSistema.Vista.vwCliente
+namespace GYMSistema.Vista.vwClases
 {
-    public partial class CUCliente : UserControl
+    public partial class CUClases : UserControl
     {
-        public CUCliente()
+        public CUClases()
         {
             InitializeComponent();
         }

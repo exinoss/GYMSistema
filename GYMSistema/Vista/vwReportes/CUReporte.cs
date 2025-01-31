@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GYMSistema
+namespace GYMSistema.Vista.vwReportes
 {
-    public partial class Form1 : Form
+    public partial class CUReporte : UserControl
     {
-        public Form1()
+        public CUReporte()
         {
             InitializeComponent();
         }
