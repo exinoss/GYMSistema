@@ -84,6 +84,7 @@
             this.btnPagos.TabIndex = 4;
             this.btnPagos.Text = "Pagos";
             this.btnPagos.UseVisualStyleBackColor = true;
+            this.btnPagos.Click += new System.EventHandler(this.btnPagos_Click);
             // 
             // btnClases
             // 
@@ -94,6 +95,7 @@
             this.btnClases.TabIndex = 3;
             this.btnClases.Text = "Clases";
             this.btnClases.UseVisualStyleBackColor = true;
+            this.btnClases.Click += new System.EventHandler(this.btnClases_Click);
             // 
             // btnMembresia
             // 
@@ -104,6 +106,7 @@
             this.btnMembresia.TabIndex = 2;
             this.btnMembresia.Text = "Membresia";
             this.btnMembresia.UseVisualStyleBackColor = true;
+            this.btnMembresia.Click += new System.EventHandler(this.btnMembresia_Click);
             // 
             // btnSocios
             // 
