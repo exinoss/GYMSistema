@@ -2,6 +2,7 @@
 using GYMSistema.Vista.vwCliente;
 using GYMSistema.Vista.vwMembresia;
 using GYMSistema.Vista.vwPagos;
+using GYMSistema.Vista.vwReportes;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -48,6 +49,14 @@ namespace GYMSistema.Vista
         private void btnPagos_Click(object sender, EventArgs e)
         {
             CUPagos ControlUser = new CUPagos();
+            pnlCuenco.Controls.Clear();
+            ControlUser.Dock = DockStyle.Fill;
+            pnlCuenco.Controls.Add(ControlUser);
+        }
+
+        private void btnReporte_Click(object sender, EventArgs e)
+        {
+            CUReporte ControlUser = new CUReporte();
             pnlCuenco.Controls.Clear();
             ControlUser.Dock = DockStyle.Fill;
             pnlCuenco.Controls.Add(ControlUser);

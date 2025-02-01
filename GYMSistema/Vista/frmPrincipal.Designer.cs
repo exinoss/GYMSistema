@@ -37,6 +37,7 @@
             this.btnSocios = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
+            this.btnReporte = new System.Windows.Forms.Button();
             this.pnlCuenco.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -64,6 +65,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.btnReporte);
             this.panel1.Controls.Add(this.btnPagos);
             this.panel1.Controls.Add(this.btnClases);
             this.panel1.Controls.Add(this.btnMembresia);
@@ -138,6 +140,17 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "OPCIONES";
             // 
+            // btnReporte
+            // 
+            this.btnReporte.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnReporte.Location = new System.Drawing.Point(0, 223);
+            this.btnReporte.Name = "btnReporte";
+            this.btnReporte.Size = new System.Drawing.Size(143, 44);
+            this.btnReporte.TabIndex = 5;
+            this.btnReporte.Text = "Reporte";
+            this.btnReporte.UseVisualStyleBackColor = true;
+            this.btnReporte.Click += new System.EventHandler(this.btnReporte_Click);
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -170,5 +183,6 @@
         private System.Windows.Forms.Button btnSocios;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnReporte;
     }
 }
