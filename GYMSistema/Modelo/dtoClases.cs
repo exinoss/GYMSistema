@@ -12,7 +12,7 @@ namespace GYMSistema.Modelo
         public int IdSocio { get; set; }
         public string Nombre { get; set; }
         public string DiaSemana { get; set; }
-        public TimeSpan Hora { get; set; }
+        public int Hora { get; set; }
         public int CupoMaximo { get; set; }
     }
 }

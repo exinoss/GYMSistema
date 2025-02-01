@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props" Condition="Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -72,6 +72,7 @@
     <Compile Include="Controlador\clsSocios.cs" />
     <Compile Include="Controlador\clsMembresia.cs" />
     <Compile Include="Controlador\clsPagos.cs" />
+    <Compile Include="Modelo\csConexion.cs" />
     <Compile Include="Modelo\dtoClases.cs" />
     <Compile Include="Modelo\dtoSocios.cs" />
     <Compile Include="Modelo\dtoMembresia.cs" />
@@ -95,6 +96,11 @@
     </Compile>
     <Compile Include="Vista\vwReportes\CUReporte.Designer.cs">
       <DependentUpon>CUReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\vwReportes\DataSetMembresia.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMembresia.xsd</DependentUpon>
     </Compile>
     <Compile Include="Vista\vwSocios\CUSocios.cs">
       <SubType>UserControl</SubType>
@@ -152,6 +158,17 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="Vista\vwReportes\DataSetMembresia.xsc">
+      <DependentUpon>DataSetMembresia.xsd</DependentUpon>
+    </None>
+    <None Include="Vista\vwReportes\DataSetMembresia.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMembresia.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Vista\vwReportes\DataSetMembresia.xss">
+      <DependentUpon>DataSetMembresia.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
